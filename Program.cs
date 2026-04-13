@@ -4,8 +4,11 @@ class Program
 {
     static void Main()
     {
+        int a = 10;
+        int b = 20;
+        int sum = a + b;
+
         Console.WriteLine("Hello, Git!");
-        Console.WriteLine("This is my first C# project.");
-        Console.WriteLine("I am learning how to use Git for version control.");
+        Console.WriteLine("Sum is: " + sum);
     }
 }
