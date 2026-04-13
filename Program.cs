@@ -8,7 +8,8 @@ class Program
         int b = 20;
         int sum = a + b;
 
-        Console.WriteLine("Hello, Git!");
+        Console.WriteLine("Hel lo, Git!");
         Console.WriteLine("Sum is: " + sum);
+    Console.ReadLine();
     }
 }
